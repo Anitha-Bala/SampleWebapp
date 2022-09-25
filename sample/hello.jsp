@@ -7,7 +7,7 @@
 <table border="0">
 <tr>
 <td align=center>
-<img src="images/tomcat.gif">
+<img src="images/Sopra_Steria-Logo.wine.gif">
 </td>
 <td>
 <h1>Sample Application JSP Page</h1>
